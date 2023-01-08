@@ -16,7 +16,7 @@ import re
 
 API_ID = os.environ.get("API_ID", "15599295") 
 API_HASH = os.environ.get("API_HASH", "4ce42998f7df4a64934294dadca28ae0") 
-SESSION_NAME = os.environ.get("SESSION_NAME", "BQBHduQd_0lSMydsCHjmYGxteU_xpu1pmuAhiyG9PQAG0Q7JwDNtN0M3-j-NKXvazpzsV3mF6_xCwBw4rUkTi0HAaTooXTSSWY9HQ8t2EnRegYLVPwRuR6fH1DDEeAuwRELdY-6DXJHxEHgqyLj6MAe5_pVvBAruCqpeC_ve02NJWJXzFX51d7JYW1LAbxE8rLnpOpMRGfIVNjXA7yN5e1VsdBycVIuX_9B1Mj-QLu9ZvsOaARRNn-q1epeIfvKRwYftnLxTFNbCJWyJIqR6DkvWhhEsfHa2sU8q7Qwyi2jUfECBYAqm7fbRo6OqFI_tEssACHfdWU6f-cLdo7XMmZ4EAAAAAVq32V8A")
+SESSION_NAME = os.environ.get("SESSION_NAME", "")
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://its_star_boi:7234049299@cluster0.8twjh9e.mongodb.net/?retryWrites=true&w=majority") 
 
 
